@@ -2,8 +2,8 @@ const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
 
-const summarizeRoutes = require('./routes/summarizeRoutes');
-const quizRoutes = require('./routes/quizRoutes');
+const summarizeRoutes = require('../routes/summarizeRoutes');
+const quizRoutes = require('../routes/quizRoutes');
 
 const app = express();
 
