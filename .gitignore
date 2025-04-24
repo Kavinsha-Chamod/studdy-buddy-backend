@@ -42,5 +42,3 @@ coverage/
 # Optional stylelint cache
 .stylelintcache
 uploads
-
-index.js
